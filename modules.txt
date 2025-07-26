@@ -1,0 +1,11 @@
+passport : ye ek third party libraray  h jis ko authentication k liye use krte h 
+passport-github2: library k naam h jisko authenetication k liye use krte h github se authentiacte krne k liye.
+socket.io: by directional communication protocol that is built on top of websocktes. it allow u to communicate bidirectional over a single long lived connection.
+event based communication protocol. 
+
+
+package.json : core depencies 
+
+package-lock.json: 
+dependencies ki depencies, wo depencies jisko core depencies use krti h 
+version lock krna 
